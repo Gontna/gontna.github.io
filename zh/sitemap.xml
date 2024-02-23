@@ -2,40 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gontna.github.io/zh/</loc>
+    <loc>http://localhost:1313/zh/</loc>
+    <lastmod>2024-02-23T22:12:05+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/zh/posts/deeplearning/one/</loc>
+    <lastmod>2024-02-23T22:12:05+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/zh/posts/deeplearning/test/</loc>
     <lastmod>2024-02-23T21:26:28+08:00</lastmod>
   </url><url>
-    <loc>https://gontna.github.io/zh/posts/deeplearning/test/</loc>
+    <loc>http://localhost:1313/zh/tags/</loc>
     <lastmod>2024-02-23T21:26:28+08:00</lastmod>
   </url><url>
-    <loc>https://gontna.github.io/zh/tags/</loc>
+    <loc>http://localhost:1313/zh/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2024-02-23T21:26:28+08:00</lastmod>
   </url><url>
-    <loc>https://gontna.github.io/zh/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2024-02-23T21:26:28+08:00</lastmod>
-  </url><url>
-    <loc>https://gontna.github.io/zh/posts/blog/blog/</loc>
+    <loc>http://localhost:1313/zh/posts/blog/blog/</loc>
     <lastmod>2024-02-23T20:38:16+08:00</lastmod>
   </url><url>
-    <loc>https://gontna.github.io/zh/posts/deeplearning/</loc>
+    <loc>http://localhost:1313/zh/posts/deeplearning/</loc>
     <lastmod>2024-02-23T12:58:42+08:00</lastmod>
   </url><url>
-    <loc>https://gontna.github.io/zh/posts/read/</loc>
+    <loc>http://localhost:1313/zh/posts/read/</loc>
     <lastmod>2024-02-23T12:58:42+08:00</lastmod>
   </url><url>
-    <loc>https://gontna.github.io/zh/posts/</loc>
+    <loc>http://localhost:1313/zh/posts/</loc>
     <lastmod>2024-02-23T12:58:42+08:00</lastmod>
   </url><url>
-    <loc>https://gontna.github.io/zh/posts/blog/</loc>
+    <loc>http://localhost:1313/zh/posts/blog/</loc>
     <lastmod>2024-02-23T12:58:42+08:00</lastmod>
   </url><url>
-    <loc>https://gontna.github.io/zh/posts/life/</loc>
+    <loc>http://localhost:1313/zh/posts/life/</loc>
     <lastmod>2024-02-23T12:58:42+08:00</lastmod>
   </url><url>
-    <loc>https://gontna.github.io/zh/archives/</loc>
+    <loc>http://localhost:1313/zh/archives/</loc>
   </url><url>
-    <loc>https://gontna.github.io/zh/categories/</loc>
+    <loc>http://localhost:1313/zh/categories/</loc>
   </url><url>
-    <loc>https://gontna.github.io/zh/search/</loc>
+    <loc>http://localhost:1313/zh/search/</loc>
   </url>
 </urlset>
