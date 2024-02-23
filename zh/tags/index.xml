@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>🧩标签 on Gnotna&#39;s 博客</title>
-    <link>http://localhost:1313/zh/tags/</link>
+    <link>https://gontna.github.io/zh/tags/</link>
     <description>Recent content in 🧩标签 on Gnotna&#39;s 博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <lastBuildDate>Fri, 23 Feb 2024 21:26:28 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gontna.github.io/zh/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>深度学习</title>
-      <link>http://localhost:1313/zh/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/</link>
+      <link>https://gontna.github.io/zh/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/</link>
       <pubDate>Fri, 23 Feb 2024 21:26:28 +0800</pubDate>
-      <guid>http://localhost:1313/zh/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/</guid>
+      <guid>https://gontna.github.io/zh/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/</guid>
       <description></description>
     </item>
   </channel>
