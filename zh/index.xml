@@ -16,11 +16,11 @@
       <description>深度学习 测试</description>
     </item>
     <item>
-      <title>Test</title>
+      <title>[pytorch] 随机数种子与GPU加速结果的确定性</title>
       <link>https://gontna.github.io/zh/posts/deeplearning/test/</link>
       <pubDate>Fri, 23 Feb 2024 21:26:28 +0800</pubDate>
       <guid>https://gontna.github.io/zh/posts/deeplearning/test/</guid>
-      <description>一级标题 123413 二级标题 ai 深度学习</description>
+      <description>pytorch随机数种子加速</description>
     </item>
     <item>
       <title>Blog</title>
