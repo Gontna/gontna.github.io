@@ -2,13 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://gontna.github.io/zh/posts/deeplearning/%E9%9A%8F%E6%9C%BA%E6%95%B0%E7%A7%8D%E5%AD%90%E4%B8%8Egpu%E5%8A%A0%E9%80%9F%E7%A1%AE%E5%AE%9A%E6%80%A7/</loc>
+    <lastmod>2024-02-23T21:26:28+08:00</lastmod>
+  </url><url>
     <loc>https://gontna.github.io/zh/</loc>
-    <lastmod>2024-02-23T22:12:05+08:00</lastmod>
-  </url><url>
-    <loc>https://gontna.github.io/zh/posts/deeplearning/one/</loc>
-    <lastmod>2024-02-23T22:12:05+08:00</lastmod>
-  </url><url>
-    <loc>https://gontna.github.io/zh/posts/deeplearning/test/</loc>
     <lastmod>2024-02-23T21:26:28+08:00</lastmod>
   </url><url>
     <loc>https://gontna.github.io/zh/tags/</loc>
@@ -17,22 +14,16 @@
     <loc>https://gontna.github.io/zh/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2024-02-23T21:26:28+08:00</lastmod>
   </url><url>
-    <loc>https://gontna.github.io/zh/posts/blog/blog/</loc>
-    <lastmod>2024-02-23T20:38:16+08:00</lastmod>
-  </url><url>
-    <loc>https://gontna.github.io/zh/posts/deeplearning/</loc>
-    <lastmod>2024-02-23T12:58:42+08:00</lastmod>
-  </url><url>
-    <loc>https://gontna.github.io/zh/posts/read/</loc>
+    <loc>https://gontna.github.io/zh/posts/web/</loc>
     <lastmod>2024-02-23T12:58:42+08:00</lastmod>
   </url><url>
     <loc>https://gontna.github.io/zh/posts/</loc>
     <lastmod>2024-02-23T12:58:42+08:00</lastmod>
   </url><url>
-    <loc>https://gontna.github.io/zh/posts/blog/</loc>
+    <loc>https://gontna.github.io/zh/posts/sundry/</loc>
     <lastmod>2024-02-23T12:58:42+08:00</lastmod>
   </url><url>
-    <loc>https://gontna.github.io/zh/posts/life/</loc>
+    <loc>https://gontna.github.io/zh/posts/deeplearning/</loc>
     <lastmod>2024-02-23T12:58:42+08:00</lastmod>
   </url><url>
     <loc>https://gontna.github.io/zh/archives/</loc>
